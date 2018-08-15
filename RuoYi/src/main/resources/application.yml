@@ -1,7 +1,7 @@
 # 项目名称、版本、版权年份
-ruoyi:
+moli:
   name: MoLi
-  version: 1.0.8
+  version: 1.0.0
   copyrightYear: 2018
 
 #开发环境配置
